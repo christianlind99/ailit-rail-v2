@@ -1,5 +1,3 @@
-import React from 'react';
-
 const ContactPage = () => {
   return (
     <section className="w-full bg-white px-6 py-24">

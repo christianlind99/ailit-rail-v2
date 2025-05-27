@@ -1,5 +1,3 @@
-import React from 'react';
-
 const CallToActionSection = () => {
   return (
     <section className="w-full px-4 py-16 md:px-8">
