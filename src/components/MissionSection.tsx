@@ -17,9 +17,9 @@ const MissionSection = () => {
         {/* Right: Paragraph and button */}
         <div className="space-y-6 text-lg leading-relaxed text-gray-800 md:w-1/2">
           <p>
-            Ailit Rail provides a heavy-duty battery locomotive system that gets
-            freight moving faster, smarter, and cleaner than ever before.
-            Wherever you need to go, we’ve got you.
+            We provide a heavy-duty battery locomotive system that gets freight
+            moving faster, smarter, and cleaner than ever before. Wherever you
+            need to go, we’ve got you.
           </p>
           <p>
             Want to go electric efficiently? Our technology handles the hard
@@ -28,12 +28,14 @@ const MissionSection = () => {
             use, so you run fewer, fuller trains per day.
           </p>
           <p>
-            This is decarbonization without the added cost. This is
-            next-generation rail freight intelligence.
+            This is decarbonization with reduced costs. This is next-generation
+            rail & freight intelligence.
           </p>
-          <button className="mt-4 rounded-full bg-black px-6 py-3 font-semibold text-white transition hover:bg-gray-900">
-            Learn more
-          </button>
+          <a href="/contact">
+            <button className="mt-4 rounded-full bg-black px-6 py-3 font-semibold text-white transition hover:bg-gray-900">
+              Learn more
+            </button>
+          </a>
         </div>
       </div>
     </section>

@@ -12,15 +12,17 @@ const CallToActionSection = () => {
             intelligent rail freight at scale. All with Ailit Rail.
           </p>
           <h2 className="text-3xl font-extrabold tracking-tight md:text-5xl">
-            Move Smarter. Move Cleaner.
+            Move Smarter. Move Cleaner. Move Cheaper.
           </h2>
         </div>
 
         {/* CTA Button */}
         <div className="shrink-0">
-          <button className="rounded-full bg-[#001AFF] px-6 py-3 font-medium text-white transition hover:bg-[#0015CC]">
-            Learn more
-          </button>
+          <a href="/contact">
+            <button className="rounded-full bg-[#001AFF] px-6 py-3 font-medium text-white transition hover:bg-[#0015CC]">
+              Learn more
+            </button>
+          </a>
         </div>
       </div>
     </section>
