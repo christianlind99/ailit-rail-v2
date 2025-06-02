@@ -19,7 +19,7 @@ const CallToActionSection = () => {
         </div>
 
         {/* CTA Button */}
-        <div className="shrink-0">
+        <div className="mt-auto shrink-0">
           <a href="/contact">
             <button className="rounded-full bg-[#001AFF] px-6 py-3 font-medium text-white transition hover:bg-[#0015CC]">
               Learn more
