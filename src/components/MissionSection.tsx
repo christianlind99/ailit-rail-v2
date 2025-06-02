@@ -8,7 +8,7 @@ const MissionSection = () => {
         {/* Left: Large heading */}
         <div className="md:w-1/2">
           <h2 className="text-4xl font-extrabold leading-tight text-black md:text-6xl">
-            Electric and autonomous
+            Fully electric
             <br />
             from beginning to end
           </h2>
@@ -22,10 +22,11 @@ const MissionSection = () => {
             need to go, we’ve got you.
           </p>
           <p>
-            Want to go electric efficiently? Our technology handles the hard
-            part – using AI and real-time data to plan your journey and reduce
-            emissions. We help you optimize routes, timing, charging, and energy
-            use, so you run fewer, fuller trains per day.
+            Say goodbye to the high costs and emissions of diesel. Our
+            integrated software platform enables smart charging, real-time
+            telematics, and advanced fleet management to help you optimize
+            energy use, charging schedules, and train operations—so you can move
+            more freight, with less waste and lower total cost of ownership.
           </p>
           <p>
             This is decarbonization with reduced costs. This is next-generation
