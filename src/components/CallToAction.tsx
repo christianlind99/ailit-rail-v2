@@ -12,7 +12,9 @@ const CallToActionSection = () => {
             intelligent rail freight at scale. All with Ailit Rail.
           </p>
           <h2 className="text-3xl font-extrabold tracking-tight md:text-5xl">
-            Move Smarter. Move Cleaner. Move Cheaper.
+            Move Smarter. <br />
+            Move Cleaner. <br />
+            Move Cheaper.
           </h2>
         </div>
 
